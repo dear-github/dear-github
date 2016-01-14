@@ -63,6 +63,8 @@ Signed,
 - Ashley Williams ([@ashleygwilliams](https://github.com/ashleygwilliams)), Developer Community Manager, npm
 - Trek Glowacki ([@trek](https://github.com/trek)), a maintainer of Ember.js
 
+**Are you the maintainer of a project on GitHub and want to sign as well? Please open a pull request**
+
 ---
 
 #### Scratchwork appendix:
