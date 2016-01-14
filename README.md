@@ -57,6 +57,7 @@ Signed,
 - Juriy Zaytsev ([@kangax](https://github.com/kangax)), maintainer of Fabric.js
 - Ken Wheeler ([@kenwheeler](https://github.com/kenwheeler)), maintainer of Slick
 - Nicholas C. Zakas ([@nzakas](https://github.com/nzakas)), maintainer of ESLint
+- Nicolás Bevacqua ([@bevacqua](https://github.com/bevacqua)), maintainer of `dragula`
 - Pascal Hartig ([@passy](https://github.com/passy)), maintainer of TodoMVC
 - Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
 - Sindre Sorhus ([@sindresorhus](https://github.com/sindresorhus)), maintainer of Yeoman
