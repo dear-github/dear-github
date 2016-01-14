@@ -42,26 +42,26 @@ very good at that!
 
 Signed,
 
-- Adam Bradley (@adamdbradley), maintainer of Ionic
-- Addy Osmani (@addyosmani), maintainer of TodoMVC
-- Andreas Tolfsen (@tolfsen), maintainer of Selenium
-- Ariya Hidayat (@ariyahidayat), maintainer of PhantomJS
-- Cătălin Mariș (@alrra), maintainer of HTML5 Boilerplate
-- Christopher Chedeau (@vjeux), maintainer of React Native
-- Dave Methvin (@davemethvin), maintainer of jQuery
-- Domenic Denicola (@domenic), maintainer of WHATWG Standards
-- Forbes Lindesay (@ForbesLindesay) maintainer of Pug (formally known as Jade)
-- James Kyle (@thejameskyle), maintainer of Babel
-- Henry Zhu (@hzoo), maintainer of JSCS
-- John-David Dalton (@jdalton), maintainer of Lodash
-- Juriy Zaytsev (@kangax), maintainer of Fabric.js
-- Ken Wheeler (@ken_wheeler), maintainer of Slick
-- Nicholas C. Zakas (@nzakas), maintainer of ESLint
-- Pascal Hartig (@passy), maintainer of TodoMVC
-- Sam Saccone (@samccone), maintainer of Marionette
-- Sindre Sorhus (@sindresorhus), maintainer of Yeoman
-- Ashley Williams (@ag_dubs), Developer Community Manager, npm
-- Trek Glowacki (@trek), a maintainer of Ember.js
+- Adam Bradley ([@adamdbradley](https://github.com/adamdbradley)), maintainer of Ionic
+- Addy Osmani ([@addyosmani](https://github.com/addyosmani)), maintainer of TodoMVC
+- Andreas Tolfsen ([@andreastt](https://github.com/andreastt)), maintainer of Selenium
+- Ariya Hidayat ([@ariya](https://github.com/ariya)), maintainer of PhantomJS
+- Cătălin Mariș ([@alrra](https://github.com/alrra)), maintainer of HTML5 Boilerplate
+- Christopher Chedeau ([@vjeux](https://github.com/vjeux)), maintainer of React Native
+- Dave Methvin ([@dmethvin](https://github.com/dmethvin)), maintainer of jQuery
+- Domenic Denicola ([@domenic](https://github.com/domenic)), maintainer of WHATWG Standards
+- Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formally known as Jade)
+- James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
+- Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
+- John-David Dalton ([@jdalton](https://github.com/jdalton), maintainer of Lodash
+- Juriy Zaytsev ([@kangax](https://github.com/kangax)), maintainer of Fabric.js
+- Ken Wheeler ([@kenwheeler](https://github.com/kenwheeler)), maintainer of Slick
+- Nicholas C. Zakas ([@nzakas](https://github.com/nzakas)), maintainer of ESLint
+- Pascal Hartig ([@passy](https://github.com/passy)), maintainer of TodoMVC
+- Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
+- Sindre Sorhus ([@sindresorhus](https://github.com/sindresorhus)), maintainer of Yeoman
+- Ashley Williams ([@ashleygwilliams](https://github.com/ashleygwilliams)), Developer Community Manager, npm
+- Trek Glowacki ([@trek](https://github.com/trek)), a maintainer of Ember.js
 
 ---
 
