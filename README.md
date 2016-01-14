@@ -61,6 +61,7 @@ Signed,
 - Nicolás Bevacqua ([@bevacqua](https://github.com/bevacqua)), maintainer of `dragula`
 - Pascal Hartig ([@passy](https://github.com/passy)), maintainer of TodoMVC
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
+- Ryan Cavanaugh ([@searyanc](https://github.com/RyanCavanaugh)), maintainer of TypeScript
 - Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
 - Sindre Sorhus ([@sindresorhus](https://github.com/sindresorhus)), maintainer of Yeoman
 - Trek Glowacki ([@trek](https://github.com/trek)), a maintainer of Ember.js
