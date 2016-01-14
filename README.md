@@ -64,6 +64,7 @@ Signed,
 - Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
 - Sindre Sorhus ([@sindresorhus](https://github.com/sindresorhus)), maintainer of Yeoman
 - Trek Glowacki ([@trek](https://github.com/trek)), a maintainer of Ember.js
+- Sashko Stubailo ([@stubailo](https://github.com/trek)), a maintainer of Meteor
 
 **Are you the maintainer of a project on GitHub and want to sign as well? Please open a pull request**
 
