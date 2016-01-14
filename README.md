@@ -46,22 +46,23 @@ Signed,
 - Addy Osmani ([@addyosmani](https://github.com/addyosmani)), maintainer of TodoMVC
 - Andreas Tolfsen ([@andreastt](https://github.com/andreastt)), maintainer of Selenium
 - Ariya Hidayat ([@ariya](https://github.com/ariya)), maintainer of PhantomJS
+- Ashley Williams ([@ashleygwilliams](https://github.com/ashleygwilliams)), Developer Community Manager, npm
 - Cătălin Mariș ([@alrra](https://github.com/alrra)), maintainer of HTML5 Boilerplate
 - Christopher Chedeau ([@vjeux](https://github.com/vjeux)), maintainer of React Native
 - Dave Methvin ([@dmethvin](https://github.com/dmethvin)), maintainer of jQuery
 - Domenic Denicola ([@domenic](https://github.com/domenic)), maintainer of WHATWG Standards
 - Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formally known as Jade)
-- James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
 - Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
-- John-David Dalton ([@jdalton](https://github.com/jdalton), maintainer of Lodash
+- James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
+- John-David Dalton ([@jdalton](https://github.com/jdalton)), maintainer of Lodash
 - Juriy Zaytsev ([@kangax](https://github.com/kangax)), maintainer of Fabric.js
 - Ken Wheeler ([@kenwheeler](https://github.com/kenwheeler)), maintainer of Slick
 - Nicholas C. Zakas ([@nzakas](https://github.com/nzakas)), maintainer of ESLint
 - Nicolás Bevacqua ([@bevacqua](https://github.com/bevacqua)), maintainer of `dragula`
 - Pascal Hartig ([@passy](https://github.com/passy)), maintainer of TodoMVC
+- Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
 - Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
 - Sindre Sorhus ([@sindresorhus](https://github.com/sindresorhus)), maintainer of Yeoman
-- Ashley Williams ([@ashleygwilliams](https://github.com/ashleygwilliams)), Developer Community Manager, npm
 - Trek Glowacki ([@trek](https://github.com/trek)), a maintainer of Ember.js
 
 **Are you the maintainer of a project on GitHub and want to sign as well? Please open a pull request**
