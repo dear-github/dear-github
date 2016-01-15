@@ -60,6 +60,7 @@ Signed,
 - Feross Aboukhadijeh ([@feross](https://github.com/feross)), maintainer of WebTorrent
 - Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formerly known as Jade)
 - Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
+- Hugo Giraudel ([@HugoGiraudel](https://github.com/HugoGiraudel)), maintainer of Sass Guidelines, SassDoc
 - Jack Humbert ([@jackhumbert](https://github.com/jackhumbert)), maintainer of QMK Firmware
 - James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
 - Jaydson Gomes ([@jaydson](https://github.com/jaydson)), maintainer of HarmonicJS
