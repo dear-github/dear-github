@@ -85,7 +85,7 @@ Signed,
 - Stefan Penner ([@stefanpenner](https://github.com/stefanpenner)), a maintainer of Ember.js
 - Timothy Gu ([@TimothyGu](https://github.com/TimothyGu)), a maintainer of Pug (formerly known as Jade)
 - Trek Glowacki ([@trek](https://github.com/trek)), a maintainer of Ember.js
-- Sashko Stubailo ([@stubailo](https://github.com/trek)), a maintainer of Meteor
+- Sashko Stubailo ([@stubailo](https://github.com/stubailo)), a maintainer of Meteor
 - Vlad Filippov ([@vladikoff](https://github.com/vladikoff)), a maintainer of Grunt
 - Graeme Yeates ([@megawac](https://github.com/megawac)), a maintainer of Backbone
 - Chris Rebert ([@cvrebert](https://github.com/cvrebert)), a maintainer of Bootstrap
