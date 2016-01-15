@@ -45,6 +45,7 @@ Signed,
 - Adam Bradley ([@adamdbradley](https://github.com/adamdbradley)), maintainer of Ionic
 - Addy Osmani ([@addyosmani](https://github.com/addyosmani)), maintainer of TodoMVC
 - Andreas Tolfsen ([@andreastt](https://github.com/andreastt)), maintainer of Selenium
+- Andre Caetano ([@webcaetano](https://github.com/webcaetano)), maintainer of Phaser Boilerplate
 - Andrew Sampson ([@codeusa](https://github.com/codeusa)), maintainer of Borderless-Gaming
 - Ariya Hidayat ([@ariya](https://github.com/ariya)), maintainer of PhantomJS
 - Ashley Williams ([@ashleygwilliams](https://github.com/ashleygwilliams)), Developer Community Manager, npm
