@@ -35,6 +35,12 @@ them, are:
   at the top of the new issue / PR page instead of that link. Maintainers can
   choose to inline content there and / or link to other pages as appropriate.
 
+And this is only the beginning. [@isaacs](https://github.com/isaacs/github) and
+the community collected a list of currently 443 issues that we are facing. Not 
+all of them needs to be implemented, but there should be a discussion about it
+with you. We want to hear your opinion. And together we want to make GitHub 
+even better. 
+
 Hopefully none of these are a surprise to you as we’ve told you them before.
 We’ve waited years now for progress on any of them. If GitHub were open source
 itself, we would be implementing these things ourselves as a community—we’re
