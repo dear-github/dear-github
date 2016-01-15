@@ -50,6 +50,7 @@ Signed,
 - Ashley Williams ([@ashleygwilliams](https://github.com/ashleygwilliams)), Developer Community Manager, npm
 - Ben Briggs ([@ben-eb](https://github.com/ben-eb)), maintainer of PostCSS
 - Cătălin Mariș ([@alrra](https://github.com/alrra)), maintainer of HTML5 Boilerplate
+- Chris Tate ([@ctate](https://github.com/ctate)), maintainer of Autocode
 - Christopher Chedeau ([@vjeux](https://github.com/vjeux)), maintainer of React Native
 - Dan Abramov ([@gaearon](http://github.com/gaearon)), maintainer of Redux
 - Dave Methvin ([@dmethvin](https://github.com/dmethvin)), maintainer of jQuery
