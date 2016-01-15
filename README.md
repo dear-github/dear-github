@@ -57,6 +57,7 @@ Signed,
 - Didier Baquier ([@dbaq](https://github.com/dbaq)), maintainer of Cordova SMS
 - Domenic Denicola ([@domenic](https://github.com/domenic)), maintainer of WHATWG Standards
 - Dylan Schiemann ([@dylans](http://github.com/dylans)), maintainer of Dojo Toolkit
+- Evan You ([@yyx990803](https://github.com/yyx990803), maintainer of Vue.js and a maintainer of Meteor
 - Feross Aboukhadijeh ([@feross](https://github.com/feross)), maintainer of WebTorrent
 - Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formerly known as Jade)
 - Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
