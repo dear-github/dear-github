@@ -78,6 +78,7 @@ Signed,
 - Paul Miller ([@paulmillr](https://github.com/paulmillr)), maintainer of Brunch
 - Rashiq Ahmad ([@rashiq](https://github.com/rashiq)), a maintainer of Kiwix
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
+- Roger Wang ([@rogerwang](https://github.com/rogerwang)), maintainer of NW.js
 - Ryan Cavanaugh ([@searyanc](https://github.com/RyanCavanaugh)), maintainer of TypeScript
 - Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
 - Simon Boudrias ([@SBoudrias](https://github.com/SBoudrias)), maintainer of Yeoman
