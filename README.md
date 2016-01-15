@@ -51,6 +51,7 @@ Signed,
 - Christopher Chedeau ([@vjeux](https://github.com/vjeux)), maintainer of React Native
 - Dave Methvin ([@dmethvin](https://github.com/dmethvin)), maintainer of jQuery
 - Domenic Denicola ([@domenic](https://github.com/domenic)), maintainer of WHATWG Standards
+- Feross Aboukhadijeh ([@feross](https://github.com/feross)), maintainer of WebTorrent
 - Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formally known as Jade)
 - Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
 - James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
