@@ -51,6 +51,7 @@ Signed,
 - Cătălin Mariș ([@alrra](https://github.com/alrra)), maintainer of HTML5 Boilerplate
 - Christopher Chedeau ([@vjeux](https://github.com/vjeux)), maintainer of React Native
 - Dave Methvin ([@dmethvin](https://github.com/dmethvin)), maintainer of jQuery
+- Daniel Rosenwasser ([@drosenwasser](https://github.com/DanielRosenwasser)), maintainer of TypeScript
 - Domenic Denicola ([@domenic](https://github.com/domenic)), maintainer of WHATWG Standards
 - Feross Aboukhadijeh ([@feross](https://github.com/feross)), maintainer of WebTorrent
 - Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formally known as Jade)
