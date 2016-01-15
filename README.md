@@ -50,6 +50,7 @@ Signed,
 - Ben Briggs ([@ben-eb](https://github.com/ben-eb)), maintainer of PostCSS
 - Cătălin Mariș ([@alrra](https://github.com/alrra)), maintainer of HTML5 Boilerplate
 - Christopher Chedeau ([@vjeux](https://github.com/vjeux)), maintainer of React Native
+- Dan Abramov ([@gaearon](http://github.com/gaearon)), maintainer of Redux
 - Dave Methvin ([@dmethvin](https://github.com/dmethvin)), maintainer of jQuery
 - Daniel Rosenwasser ([@drosenwasser](https://github.com/DanielRosenwasser)), maintainer of TypeScript
 - Domenic Denicola ([@domenic](https://github.com/domenic)), maintainer of WHATWG Standards
