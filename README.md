@@ -57,7 +57,6 @@ Signed,
 - Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
 - Jack Humbert ([@jackhumbert](https://github.com/jackhumbert)), maintainer of QMK Firmware
 - James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
-- Jesus Rodriguez ([@foxandxss](https://github.com/Foxandxss/)), maintainer of ui-bootstrap
 - John-David Dalton ([@jdalton](https://github.com/jdalton)), maintainer of Lodash
 - Juriy Zaytsev ([@kangax](https://github.com/kangax)), maintainer of Fabric.js
 - Ken Wheeler ([@kenwheeler](https://github.com/kenwheeler)), maintainer of Slick
@@ -73,6 +72,7 @@ Signed,
 - Trek Glowacki ([@trek](https://github.com/trek)), a maintainer of Ember.js
 - Sashko Stubailo ([@stubailo](https://github.com/trek)), a maintainer of Meteor
 - Graeme Yeates ([@megawac](https://github.com/megawac)), a maintainer of Backbone and Underscore
+- Chris Rebert ([@cvrebert](https://github.com/cvrebert)), a maintainer of Bootstrap
 
 **Are you the maintainer of a project on GitHub and want to sign as well? Please open a pull request**
 
