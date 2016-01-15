@@ -77,6 +77,7 @@ Signed,
 - Sindre Sorhus ([@sindresorhus](https://github.com/sindresorhus)), maintainer of Yeoman
 - Trek Glowacki ([@trek](https://github.com/trek)), a maintainer of Ember.js
 - Sashko Stubailo ([@stubailo](https://github.com/trek)), a maintainer of Meteor
+- Vlad Filippov ([@vladikoff](https://github.com/vladikoff)), a maintainer of Grunt
 - Graeme Yeates ([@megawac](https://github.com/megawac)), a maintainer of Backbone and Underscore
 - Chris Rebert ([@cvrebert](https://github.com/cvrebert)), a maintainer of Bootstrap
 - Wesley Cho ([@wesleycho](https://github.com/wesleycho)), a maintainer of UI Bootstrap
