@@ -68,6 +68,7 @@ Signed,
 - Juriy Zaytsev ([@kangax](https://github.com/kangax)), maintainer of Fabric.js
 - Ken Wheeler ([@kenwheeler](https://github.com/kenwheeler)), maintainer of Slick
 - Kent C. Dodds ([@kentcdodds](https://github.com/kentcdodds)), maintainer of angular-formly
+- Kevin Mårtensson ([@kevva](https://github.com/kevva)), maintainer of Yeoman
 - Mario Zechner ([@badlogicgames](https://github.com/badlogic)), maintainer of libGDX
 - Matthew McClure ([@mmcc](https://github.com/mmcc)), a maintainer of Video.js
 - Merrick Christensen ([@iammerrick](https://github.com/iammerrick)), maintainer of Squire.js
