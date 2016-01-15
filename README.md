@@ -57,6 +57,7 @@ Signed,
 - Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
 - Jack Humbert ([@jackhumbert](https://github.com/jackhumbert)), maintainer of QMK Firmware
 - James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
+- Jesus Rodriguez ([@foxandxss](https://github.com/Foxandxss/)), maintainer of ui-bootstrap
 - John-David Dalton ([@jdalton](https://github.com/jdalton)), maintainer of Lodash
 - Juriy Zaytsev ([@kangax](https://github.com/kangax)), maintainer of Fabric.js
 - Ken Wheeler ([@kenwheeler](https://github.com/kenwheeler)), maintainer of Slick
