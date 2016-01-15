@@ -69,6 +69,7 @@ Signed,
 - Ken Wheeler ([@kenwheeler](https://github.com/kenwheeler)), maintainer of Slick
 - Kent C. Dodds ([@kentcdodds](https://github.com/kentcdodds)), maintainer of angular-formly
 - Mario Zechner ([@badlogicgames](https://github.com/badlogic)), maintainer of libGDX
+- Mark Dalgleish ([@markdalgleish](https://github.com/markdalgleish)), maintainer of CSS Modules
 - Matthew McClure ([@mmcc](https://github.com/mmcc)), a maintainer of Video.js
 - Merrick Christensen ([@iammerrick](https://github.com/iammerrick)), maintainer of Squire.js
 - Nicholas C. Zakas ([@nzakas](https://github.com/nzakas)), maintainer of ESLint
