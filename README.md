@@ -58,6 +58,7 @@ Signed,
 - John-David Dalton ([@jdalton](https://github.com/jdalton)), maintainer of Lodash
 - Juriy Zaytsev ([@kangax](https://github.com/kangax)), maintainer of Fabric.js
 - Ken Wheeler ([@kenwheeler](https://github.com/kenwheeler)), maintainer of Slick
+- Kent C. Dodds ([@kentcdodds](https://github.com/kentcdodds)), maintainer of angular-formly
 - Mario Zechner ([@badlogicgames](https://github.com/badlogic)), maintainer of libGDX
 - Nicholas C. Zakas ([@nzakas](https://github.com/nzakas)), maintainer of ESLint
 - Nicolás Bevacqua ([@bevacqua](https://github.com/bevacqua)), maintainer of `dragula`
