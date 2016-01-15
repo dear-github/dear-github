@@ -23,7 +23,7 @@ them, are:
   the maintainers and any others subscribed to the issue. These +1s serve a
   valuable function in letting maintainers know how widespread an issue is, but
   their drawbacks are too great. We’d like issues to gain a first-class voting
-  system, and for content-less comments like “+1” or “:+1:” or “me too” tof
+  system, and for content-less comments like “+1” or “:+1:” or “me too” to
   trigger a warning and instructions on how to use the voting mechanism.
 
 - Issues and pull requests are often created without any adherence to the
