@@ -91,6 +91,7 @@ Signed,
 - Chris Rebert ([@cvrebert](https://github.com/cvrebert)), a maintainer of Bootstrap
 - Wesley Cho ([@wesleycho](https://github.com/wesleycho)), a maintainer of UI Bootstrap
 - Zeno Rocha ([@zenorocha](https://github.com/zenorocha)), maintainer of Clipboard.js
+- Zack Zatkin-Gold ([@zg](https://github.com/zg)), maintainer of hof.js
 
 [View other signatures](https://docs.google.com/spreadsheets/d/1oGsg02jS-PnlIMJ3OlWIOEmhtG-udTwuDz_vsQPBHKs/edit?usp=sharing)
 
