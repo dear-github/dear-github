@@ -92,4 +92,6 @@ Signed,
 - Wesley Cho ([@wesleycho](https://github.com/wesleycho)), a maintainer of UI Bootstrap
 - Zeno Rocha ([@zenorocha](https://github.com/zenorocha)), maintainer of Clipboard.js
 
-**Are you the maintainer of a project on GitHub and want to sign as well? Please sign here: http://goo.gl/forms/DtmQnUXNSE**
+[View other signatures](https://docs.google.com/spreadsheets/d/1oGsg02jS-PnlIMJ3OlWIOEmhtG-udTwuDz_vsQPBHKs/edit?usp=sharing)
+
+**Are you the maintainer of a project on GitHub and want to sign as well? [Please sign here](http://goo.gl/forms/DtmQnUXNSE)**
