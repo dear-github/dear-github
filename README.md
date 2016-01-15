@@ -47,6 +47,7 @@ Signed,
 - Andreas Tolfsen ([@andreastt](https://github.com/andreastt)), maintainer of Selenium
 - Ariya Hidayat ([@ariya](https://github.com/ariya)), maintainer of PhantomJS
 - Ashley Williams ([@ashleygwilliams](https://github.com/ashleygwilliams)), Developer Community Manager, npm
+- Ben Briggs ([@ben-eb](https://github.com/ben-eb)), maintainer of PostCSS
 - Cătălin Mariș ([@alrra](https://github.com/alrra)), maintainer of HTML5 Boilerplate
 - Christopher Chedeau ([@vjeux](https://github.com/vjeux)), maintainer of React Native
 - Dave Methvin ([@dmethvin](https://github.com/dmethvin)), maintainer of jQuery
