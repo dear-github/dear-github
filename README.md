@@ -72,6 +72,7 @@ Signed,
 - Nicholas C. Zakas ([@nzakas](https://github.com/nzakas)), maintainer of ESLint
 - Nicolás Bevacqua ([@bevacqua](https://github.com/bevacqua)), maintainer of `dragula`
 - Pascal Hartig ([@passy](https://github.com/passy)), maintainer of TodoMVC
+- Rashiq Ahmad ([@rashiq](https://github.com/rashiq)), a maintainer of Kiwix
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
 - Ryan Cavanaugh ([@searyanc](https://github.com/RyanCavanaugh)), maintainer of TypeScript
 - Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
