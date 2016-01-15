@@ -36,9 +36,9 @@ them, are:
   choose to inline content there and / or link to other pages as appropriate.
 
 And this is only the beginning. [@isaacs](https://github.com/isaacs/github) and
-the community collected a list of currently 443 issues that we are facing. Not 
-all of them needs to be implemented, but there should be a discussion about it
-with you. We want to hear your opinion. And together we want to make GitHub 
+the community collected a list of currently over 400 issues that we are facing. Not 
+all of them need to be implemented, but there should be a discussion about it
+_with you_. We want to hear your opinion. And together we want to make GitHub 
 even better. 
 
 Hopefully none of these are a surprise to you as we’ve told you them before.
