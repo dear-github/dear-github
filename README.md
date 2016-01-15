@@ -77,6 +77,7 @@ Signed,
 - Pascal Hartig ([@passy](https://github.com/passy)), maintainer of TodoMVC
 - Paul Miller ([@paulmillr](https://github.com/paulmillr)), maintainer of Brunch
 - Rashiq Ahmad ([@rashiq](https://github.com/rashiq)), a maintainer of Kiwix
+- Roger Wang ([@rogerwang](https://github.com/rogerwang)), maintainer of NW.js
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
 - Ryan Cavanaugh ([@searyanc](https://github.com/RyanCavanaugh)), maintainer of TypeScript
 - Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
