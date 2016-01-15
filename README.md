@@ -79,5 +79,6 @@ Signed,
 - Sashko Stubailo ([@stubailo](https://github.com/trek)), a maintainer of Meteor
 - Graeme Yeates ([@megawac](https://github.com/megawac)), a maintainer of Backbone and Underscore
 - Chris Rebert ([@cvrebert](https://github.com/cvrebert)), a maintainer of Bootstrap
+- Wesley Cho ([@wesleycho](https://github.com/wesleycho)), a maintainer of UI Bootstrap
 
 **Are you the maintainer of a project on GitHub and want to sign as well? Please open a pull request**
