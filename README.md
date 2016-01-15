@@ -53,6 +53,7 @@ Signed,
 - Dan Abramov ([@gaearon](http://github.com/gaearon)), maintainer of Redux
 - Dave Methvin ([@dmethvin](https://github.com/dmethvin)), maintainer of jQuery
 - Daniel Rosenwasser ([@drosenwasser](https://github.com/DanielRosenwasser)), maintainer of TypeScript
+- Didier Baquier ([@dbaq](https://github.com/dbaq)), maintainer of Cordova SMS
 - Domenic Denicola ([@domenic](https://github.com/domenic)), maintainer of WHATWG Standards
 - Feross Aboukhadijeh ([@feross](https://github.com/feross)), maintainer of WebTorrent
 - Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formally known as Jade)
