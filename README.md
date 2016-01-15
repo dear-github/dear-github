@@ -54,6 +54,7 @@ Signed,
 - Feross Aboukhadijeh ([@feross](https://github.com/feross)), maintainer of WebTorrent
 - Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formally known as Jade)
 - Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
+- Jack Humbert ([@jackhumbert](https://github.com/jackhumbert)), maintainer of QMK Firmware
 - James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
 - John-David Dalton ([@jdalton](https://github.com/jdalton)), maintainer of Lodash
 - Juriy Zaytsev ([@kangax](https://github.com/kangax)), maintainer of Fabric.js
