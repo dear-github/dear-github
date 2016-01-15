@@ -71,6 +71,7 @@ Signed,
 - Merrick Christensen ([@iammerrick](https://github.com/iammerrick)), maintainer of Squire.js
 - Nicholas C. Zakas ([@nzakas](https://github.com/nzakas)), maintainer of ESLint
 - Nicolás Bevacqua ([@bevacqua](https://github.com/bevacqua)), maintainer of `dragula`
+- Nishanth Shanmugham ([@nishanths](https://github.com/nishanths)), maintainer of license
 - Pascal Hartig ([@passy](https://github.com/passy)), maintainer of TodoMVC
 - Paul Miller ([@paulmillr](https://github.com/paulmillr)), maintainer of Brunch
 - Rashiq Ahmad ([@rashiq](https://github.com/rashiq)), a maintainer of Kiwix
