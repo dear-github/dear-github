@@ -23,7 +23,7 @@ them, are:
   the maintainers and any others subscribed to the issue. These +1s serve a
   valuable function in letting maintainers know how widespread an issue is, but
   their drawbacks are too great. We’d like issues to gain a first-class voting
-  system, and for content-less comments like “+1” or “:+1:” or “me too” to
+  system, and for content-less comments like “+1” or “:+1:” or “me too” tof
   trigger a warning and instructions on how to use the voting mechanism.
 
 - Issues and pull requests are often created without any adherence to the
@@ -57,7 +57,7 @@ Signed,
 - Didier Baquier ([@dbaq](https://github.com/dbaq)), maintainer of Cordova SMS
 - Domenic Denicola ([@domenic](https://github.com/domenic)), maintainer of WHATWG Standards
 - Feross Aboukhadijeh ([@feross](https://github.com/feross)), maintainer of WebTorrent
-- Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formally known as Jade)
+- Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formerly known as Jade)
 - Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
 - Jack Humbert ([@jackhumbert](https://github.com/jackhumbert)), maintainer of QMK Firmware
 - James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
