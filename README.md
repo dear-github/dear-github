@@ -78,6 +78,7 @@ Signed,
 - Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
 - Simon Boudrias ([@SBoudrias](https://github.com/SBoudrias)), maintainer of Yeoman
 - Sindre Sorhus ([@sindresorhus](https://github.com/sindresorhus)), maintainer of Yeoman
+- Stefan Penner ([@stefanpenner](https://github.com/stefanpenner)), a maintainer of Ember.js
 - Trek Glowacki ([@trek](https://github.com/trek)), a maintainer of Ember.js
 - Sashko Stubailo ([@stubailo](https://github.com/trek)), a maintainer of Meteor
 - Vlad Filippov ([@vladikoff](https://github.com/vladikoff)), a maintainer of Grunt
