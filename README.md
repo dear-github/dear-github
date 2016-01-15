@@ -87,5 +87,6 @@ Signed,
 - Chris Rebert ([@cvrebert](https://github.com/cvrebert)), a maintainer of Bootstrap
 - Wesley Cho ([@wesleycho](https://github.com/wesleycho)), a maintainer of UI Bootstrap
 - Zeno Rocha ([@zenorocha](https://github.com/zenorocha)), maintainer of Clipboard.js
+- Josh Manders ([@joshmanders](https://github.com/joshmanders)), maintainer of Kratos
 
 **Are you the maintainer of a project on GitHub and want to sign as well? Please open a pull request**
