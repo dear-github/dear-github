@@ -57,7 +57,7 @@ Signed,
 - Didier Baquier ([@dbaq](https://github.com/dbaq)), maintainer of Cordova SMS
 - Domenic Denicola ([@domenic](https://github.com/domenic)), maintainer of WHATWG Standards
 - Feross Aboukhadijeh ([@feross](https://github.com/feross)), maintainer of WebTorrent
-- Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formerly known as Jade)
+- Forbes Lindesay ([@ForbesLindesay](https://github.com/ForbesLindesay)) maintainer of Pug (formally known as Jade)
 - Henry Zhu ([@hzoo](https://github.com/hzoo)), maintainer of JSCS
 - Jack Humbert ([@jackhumbert](https://github.com/jackhumbert)), maintainer of QMK Firmware
 - James Kyle ([@thejameskyle](https://github.com/thejameskyle)), maintainer of Babel
@@ -72,6 +72,7 @@ Signed,
 - Nicholas C. Zakas ([@nzakas](https://github.com/nzakas)), maintainer of ESLint
 - Nicolás Bevacqua ([@bevacqua](https://github.com/bevacqua)), maintainer of `dragula`
 - Pascal Hartig ([@passy](https://github.com/passy)), maintainer of TodoMVC
+- Paul Miller ([@paulmillr](https://github.com/paulmillr)), maintainer of Brunch
 - Ricardo Cabello ([@mrdoob](https://github.com/mrdoob)), maintainer of three.js
 - Ryan Cavanaugh ([@searyanc](https://github.com/RyanCavanaugh)), maintainer of TypeScript
 - Sam Saccone ([@samccone](https://github.com/samccone)), maintainer of Marionette
