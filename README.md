@@ -65,6 +65,7 @@ Signed,
 - Jaydson Gomes ([@jaydson](https://github.com/jaydson)), maintainer of HarmonicJS
 - Jesus Rodriguez ([@foxandxss](https://github.com/Foxandxss/)), maintainer of ui-bootstrap
 - John-David Dalton ([@jdalton](https://github.com/jdalton)), maintainer of Lodash
+- Jonathan Neal ([@jonathantneal](https://github.com/jonathantneal)), maintainer of sanitize.css
 - Juriy Zaytsev ([@kangax](https://github.com/kangax)), maintainer of Fabric.js
 - Ken Wheeler ([@kenwheeler](https://github.com/kenwheeler)), maintainer of Slick
 - Kent C. Dodds ([@kentcdodds](https://github.com/kentcdodds)), maintainer of angular-formly
