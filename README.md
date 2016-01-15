@@ -42,6 +42,6 @@ very good at that!
 
 Signed,
 
-[GitHub users](https://docs.google.com/spreadsheets/d/1oGsg02jS-PnlIMJ3OlWIOEmhtG-udTwuDz_vsQPBHKs/edit?usp=sharing)
+[Some GitHub users](https://docs.google.com/spreadsheets/d/1oGsg02jS-PnlIMJ3OlWIOEmhtG-udTwuDz_vsQPBHKs/edit?usp=sharing)
 
 **Are you the maintainer of a project on GitHub and want to sign as well? [Please sign here](http://goo.gl/forms/DtmQnUXNSE)**
