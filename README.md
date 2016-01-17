@@ -31,7 +31,7 @@ them, are:
   the “guidelines for contributing” link when creating an issue and the fact
   that it often contains a lot of information that isn’t relevant to opening
   issues (such as information about hacking on the project). Maintainers should
-  be able to configure a file in the repo (interpreted as GFM) to be displayed
+  be able to configure a file in the repo (e.g. newpullrequest.md, interpreted as GFM) to be displayed
   at the top of the new issue / PR page instead of that link. Maintainers can
   choose to inline content there and / or link to other pages as appropriate.
 
