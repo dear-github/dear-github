@@ -50,10 +50,10 @@ Signed,
 * Christopher Chedeau (@vjeux), maintainer of React Native
 * Dave Methvin (@dmethvin), maintainer of jQuery
 * Domenic Denicola (@domenic), maintainer of WHATWG Standards
-* Forbes Lindesay (@ForbesLindesay) maintainer of Pug (formally known as Jade)
+* Forbes Lindesay (@ForbesLindesay), maintainer of Pug (formally known as Jade)
 * James Kyle (@thejameskyle), maintainer of Babel
 * Henry Zhu (@hzoo), maintainer of JSCS
-* John-David Dalton (@jdalton, maintainer of Lodash
+* John-David Dalton (@jdalton), maintainer of Lodash
 * Juriy Zaytsev (@kangax), maintainer of Fabric.js
 * Ken Wheeler (@kenwheeler), maintainer of Slick
 * Nicholas C. Zakas (@nzakas), maintainer of ESLint
