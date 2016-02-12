@@ -1,4 +1,4 @@
-Dear GitHub,
+#### Dear GitHub,
 
 You have done so much to grow the open source community and make it really
 accessible to users. Somehow you have us chasing stars and filling up squares,
@@ -46,9 +46,9 @@ Signed,
 
 **Are you the maintainer of a project on GitHub and want to sign as well? [Please sign here](http://goo.gl/forms/DtmQnUXNSE)**
 
----
+===
 
-Dear Open Source Maintainers,
+#### Dear Open Source Maintainers,
 
 We hear you and we're sorry. We've been slow to respond to your letter and slow to respond to your frustrations.
 
