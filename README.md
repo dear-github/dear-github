@@ -45,3 +45,17 @@ Signed,
 [GitHub users](https://docs.google.com/spreadsheets/d/1oGsg02jS-PnlIMJ3OlWIOEmhtG-udTwuDz_vsQPBHKs/edit?usp=sharing)
 
 **Are you the maintainer of a project on GitHub and want to sign as well? [Please sign here](http://goo.gl/forms/DtmQnUXNSE)**
+
+---
+
+Dear Open Source Maintainers,
+
+We hear you and we're sorry. We've been slow to respond to your letter and slow to respond to your frustrations.
+
+We're working hard to fix this. Over the next few weeks we'll begin releasing a number of improvements to Issues, many of which will address the specific concerns raised in the letter. But we're not going to stop there. We'll continue to focus on Issues moving forward by adding new features, responding to feedback, and iterating on the core experience. We've also got a few surprises in store.
+
+Issues haven't gotten much attention from GitHub these past few years and that was a mistake, but we've never stopped thinking about or caring about you and your communities. However, we know we haven't communicated that. So in addition to improving Issues, we're also going to kick off a few initiatives that will help give you more insight into what's on our radar. We want to make sharing feedback with GitHub less of a black box experience and we want to hear your ideas and concerns regularly.
+
+We'll be in touch next week. Sorry it's taken so long, and thank you for everything.
+
+—GitHub
