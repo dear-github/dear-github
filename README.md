@@ -15,18 +15,18 @@ us to be in the dark about one of our most important project dependencies.
 The problems we most frequently have, and our best ideas for how to address
 them, are:
 
-- Issues are often filed missing crucial information like reproduction steps or
+- [x] Issues are often filed missing crucial information like reproduction steps or
   version tested. We’d like issues to gain custom fields, along with a mechanism
   (such as a mandatory issue template, perhaps powered by a newissue.md in root
   as a likely-simple solution) for ensuring they are filled out in every issue.
-- Issues often accumulate content-less “+1” comments which serve only to spam
+- [ ] Issues often accumulate content-less “+1” comments which serve only to spam
   the maintainers and any others subscribed to the issue. These +1s serve a
   valuable function in letting maintainers know how widespread an issue is, but
   their drawbacks are too great. We’d like issues to gain a first-class voting
   system, and for content-less comments like “+1” or “:+1:” or “me too” to
   trigger a warning and instructions on how to use the voting mechanism.
 
-- Issues and pull requests are often created without any adherence to the
+- [ ] Issues and pull requests are often created without any adherence to the
   CONTRIBUTING.md contribution guidelines, due to the inconspicuous nature of
   the “guidelines for contributing” link when creating an issue and the fact
   that it often contains a lot of information that isn’t relevant to opening
