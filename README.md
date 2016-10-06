@@ -6,7 +6,7 @@ improving the world’s software in the process.
 
 However, many of us are frustrated. Those of us who run some of the most popular
 projects on GitHub feel completely ignored by you. We’ve gone through the only
-support channel that you have given us either to receive an empty response or
+support channel that you have given us to request new features either to receive an empty response or
 even no response at all. We have no visibility into what has happened with our
 requests, or whether GitHub is working on them. Since our own work is usually
 done in the open and everyone has input into the process, it seems strange for
