@@ -15,6 +15,8 @@ us to be in the dark about one of our most important project dependencies.
 The problems we most frequently have, and our best ideas for how to address
 them, are:
 
+- You're being acquired by Microsoft, which is something Skype didn't survive!
+
 - Issues are often filed missing crucial information like reproduction steps or
   version tested. We’d like issues to gain custom fields, along with a mechanism
   (such as a mandatory issue template, perhaps powered by a newissue.md in root
