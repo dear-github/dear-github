@@ -1,3 +1,8 @@
+### See [Dear GitHub 2.0](https://github.com/drop-ice/dear-github-2.0)
+
+---
+---
+
 #### Dear GitHub,
 
 You have done so much to grow the open source community and make it really
