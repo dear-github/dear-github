@@ -51,7 +51,7 @@ Signed,
 
 **Are you the maintainer of a project on GitHub and want to sign as well? [Please sign here](http://goo.gl/forms/DtmQnUXNSE)**
 
-===
+---
 
 #### Dear Open Source Maintainers,
 
