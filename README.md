@@ -47,7 +47,28 @@ very good at that!
 
 Signed,
 
-[GitHub users](https://docs.google.com/spreadsheets/d/1oGsg02jS-PnlIMJ3OlWIOEmhtG-udTwuDz_vsQPBHKs/edit?usp=sharing)
+* Adam Bradley (@adamdbradley), maintainer of Ionic
+* Addy Osmani (@addyosmani), maintainer of TodoMVC
+* Andreas Tolfsen (@andreastt), maintainer of Selenium
+* Ariya Hidayat (@ariya), maintainer of PhantomJS
+* Cătălin Mariș (@alrra), maintainer of HTML5 Boilerplate
+* Christopher Chedeau (@vjeux), maintainer of React Native
+* Dave Methvin (@dmethvin), maintainer of jQuery
+* Domenic Denicola (@domenic), maintainer of WHATWG Standards
+* Forbes Lindesay (@ForbesLindesay), maintainer of Pug (formally known as Jade)
+* James Kyle (@thejameskyle), maintainer of Babel
+* Henry Zhu (@hzoo), maintainer of JSCS
+* John-David Dalton (@jdalton), maintainer of Lodash
+* Juriy Zaytsev (@kangax), maintainer of Fabric.js
+* Ken Wheeler (@kenwheeler), maintainer of Slick
+* Nicholas C. Zakas (@nzakas), maintainer of ESLint
+* Pascal Hartig (@passy), maintainer of TodoMVC
+* Sam Saccone (@samccone), maintainer of Marionette
+* Sindre Sorhus (@sindresorhus), maintainer of Yeoman
+* Ashley Williams (@ashleygwilliams), Developer Community Manager, npm
+* Trek Glowacki (@trek), a maintainer of Ember.js
+
+[And many other GitHub users](https://docs.google.com/spreadsheets/d/1oGsg02jS-PnlIMJ3OlWIOEmhtG-udTwuDz_vsQPBHKs/edit?usp=sharing)
 
 **Are you the maintainer of a project on GitHub and want to sign as well? [Please sign here](http://goo.gl/forms/DtmQnUXNSE)**
 
