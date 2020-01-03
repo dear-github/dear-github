@@ -40,9 +40,9 @@ them, are:
   at the top of the new issue / PR page instead of that link. Maintainers can
   choose to inline content there and / or link to other pages as appropriate.
 
-Hopefully none of these are a surprise to you as we’ve told you them before.
+Hopefully, none of these are a surprise to you, as we’ve told you them before.
 We’ve waited years now for progress on any of them. If GitHub were open source
-itself, we would be implementing these things ourselves as a community—we’re
+itself, we would be implementing these things ourselves as a community — we’re
 very good at that!
 
 Signed,
