@@ -1,7 +1,3 @@
-### See [Dear GitHub 2.0](https://github.com/drop-ice/dear-github-2.0)
-
----
----
 
 #### Dear GitHub,
 
@@ -64,3 +60,10 @@ Issues haven't gotten much attention from GitHub these past few years and that w
 We'll be in touch next week. Sorry it's taken so long, and thank you for everything.
 
 —GitHub
+
+
+---
+### See other open letters
+
+[Dear GitHub 2.0](https://github.com/drop-ice/dear-github-2.0) - cancel contract with ICE.
+
